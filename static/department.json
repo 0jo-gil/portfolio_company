@@ -5,21 +5,21 @@
             "department": "Executive",
             "name": "name1",
             "position": "CEO",
-            "src": "../img/executive1.png"
+            "src": "img/executive1.png"
         },
         {
             "className" : ".executive",
             "department": "Exceutive",
             "name": "name2",
             "position": "Senior vice president",
-            "src": "../img/executive2.png"
+            "src": "img/executive2.png"
         },
         {
             "className" : ".executive",
             "department": "Exceutive",
             "name": "name",
             "position": "Senior vice president",
-            "src": "../img/executive3.png"
+            "src": "img/executive3.png"
         }
   
     ],
@@ -30,21 +30,21 @@
             "department": "Design&Marketing",
             "name": "name3",
             "position": "Product Director",
-            "src": "../img/design1.png"
+            "src": "img/design1.png"
         },
         {
             "className" : ".design",
             "department": "Design&Marketing",
             "name": "name4",
             "position": "Industrial Designer",
-            "src": "../img/design2.png"
+            "src": "img/design2.png"
         },
         {
             "className" : ".design",
             "department": "Design&Marketing",
             "name": "name5",
             "position": "Industrial Designer",
-            "src": "../img/design3.png"
+            "src": "img/design3.png"
         }
     ],
 
@@ -54,14 +54,14 @@
             "department": "CS",
             "name": "name6",
             "position": "Service Claim",
-            "src": "../img/cs1.png"
+            "src": "img/cs1.png"
         },
         {
             "className" : ".cs",
             "department": "CS",
             "name": "name7",
             "position": "CS Agent",
-            "src": "../img/cs2.png"
+            "src": "img/cs2.png"
         }
     ],
 
@@ -71,14 +71,14 @@
             "department": "PURCHASE",
             "name": "name8",
             "position": "Purchasing Director",
-            "src": "../img/purchase1.png"
+            "src": "img/purchase1.png"
         },
         {
             "className" : ".purchase",
             "department": "PURCHASE",
             "name": "name10",
             "position": "Purchasing Director",
-            "src": "../img/purchase2.png"
+            "src": "img/purchase2.png"
         }
     ],
 
@@ -88,14 +88,14 @@
             "department": "ACCOUNTING",
             "name": "name8",
             "position": "Controller",
-            "src": "../img/accounting1.png"
+            "src": "img/accounting1.png"
         },
         {
             "className" : ".accounting",
             "department": "ACCOUNTING",
             "name": "name10",
             "position": "Bookkeeper",
-            "src": "../img/accounting2.png"
+            "src": "img/accounting2.png"
         }
     ]
 
