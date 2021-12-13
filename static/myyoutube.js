@@ -184,7 +184,7 @@
                         zIndex: 15
                     })
                     .append(
-                        $("<img src='img/loading.gif'>")
+                        $("<img src='./img/loading.gif'>")
                             .css({
                                 width: 400,
                                 position: "absolute",
